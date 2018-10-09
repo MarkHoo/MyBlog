@@ -1,4 +1,4 @@
-﻿# blog搭建环境：Python3.5.2， 
+﻿# Blog搭建环境：Python3.5.2， 
 ```
 Django==1.10.6
 django-haystack==2.6.1
